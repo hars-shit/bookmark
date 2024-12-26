@@ -1,0 +1,113 @@
+[
+    {
+      "id": "1",
+      "name": "Wireless Earbuds",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "description": "High-quality wireless earbuds with noise cancellation and long battery life.",
+      "price": 59.99,
+      "rating": 4.5,
+      "category": "Electronics",
+      "duration": "2 years warranty",
+      "location": "California, USA"
+    },
+    {
+      "id": "2",
+      "name": "Running Shoes",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "description": "Lightweight running shoes designed for comfort and durability.",
+      "price": 89.99,
+      "rating": 4.7,
+      "category": "Footwear",
+      "duration": "6 months replacement",
+      "location": "Texas, USA"
+    },
+    {
+      "id": "3",
+      "name": "Smartphone",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "description": "Feature-packed smartphone with an excellent camera and high-speed processor.",
+      "price": 699.99,
+      "rating": 4.8,
+      "category": "Electronics",
+      "duration": "1 year warranty",
+      "location": "New York, USA"
+    },
+    {
+      "id": "4",
+      "name": "Backpack",
+      "image": "https://fakestoreapi.com/img/71W3oJ7aWyL._AC_SX679_.jpg",
+      "description": "Spacious and durable backpack, perfect for travel and daily use.",
+      "price": 49.99,
+      "rating": 4.4,
+      "category": "Accessories",
+      "duration": "3 months replacement",
+      "location": "Florida, USA"
+    },
+    {
+      "id": "5",
+      "name": "Blender",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "description": "Efficient and powerful blender for smoothies and cooking prep.",
+      "price": 34.99,
+      "rating": 4.2,
+      "category": "Home Appliances",
+      "duration": "1 year warranty",
+      "location": "Illinois, USA"
+    },
+    {
+      "id": "6",
+      "name": "Gaming Mouse",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "description": "Ergonomic gaming mouse with customizable buttons and RGB lighting.",
+      "price": 39.99,
+      "rating": 4.6,
+      "category": "Electronics",
+      "duration": "2 years warranty",
+      "location": "Washington, USA"
+    },
+    {
+      "id": "7",
+      "name": "Yoga Mat",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "description": "Non-slip yoga mat with extra cushioning for a comfortable workout.",
+      "price": 19.99,
+      "rating": 4.3,
+      "category": "Fitness",
+      "duration": "1 year usage",
+      "location": "Oregon, USA"
+    },
+    {
+      "id": "8",
+      "name": "Coffee Maker",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "description": "Compact coffee maker with multiple brewing options.",
+      "price": 79.99,
+      "rating": 4.5,
+      "category": "Home Appliances",
+      "duration": "1 year warranty",
+      "location": "Nevada, USA"
+    },
+    {
+      "id": "9",
+      "name": "Wristwatch",
+      "image": "https://fakestoreapi.com/img/71W3oJ7aWyL._AC_SX679_.jpg",
+      "description": "Stylish wristwatch with water resistance and a leather strap.",
+      "price": 129.99,
+      "rating": 4.7,
+      "category": "Accessories",
+      "duration": "5 years warranty",
+      "location": "Virginia, USA"
+    },
+    {
+      "id": "10",
+      "name": "Office Chair",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "description": "Ergonomic office chair with lumbar support and adjustable height.",
+      "price": 149.99,
+      "rating": 4.8,
+      "category": "Furniture",
+      "duration": "1 year warranty",
+      "location": "Georgia, USA"
+    }
+  ]
+  
